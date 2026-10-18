@@ -1,4 +1,4 @@
-# Safar Amanah
+# Traguna Tour
 
 Template website travel/Umrah responsif yang direkonstruksi dari referensi visual yang disediakan. Seluruh halaman dirender secara statis tanpa dependency build.
 
